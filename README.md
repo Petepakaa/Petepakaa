@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/b89d9253d7a53bc0dbb08af6f316e2dd/b011337beef27f30-f4/s640x960/277a0199f597287448d32f858a3119af4f7f0f66.gifv" width="280" alt="Spider-Man swinging" />
+<img src="https://64.media.tumblr.com/b89d9253d7a53bc0dbb08af6f316e2dd/b011337beef27f30-f4/s640x960/277a0199f597287448d32f858a3119af4f7f0f66.gif" width="280" alt="Spider-Man swinging" />
 
 <br/>
 
