@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:05051A,65:0D0D3B,100:1A0030&height=260&section=header&text=PRATIK%20KUMAR&fontSize=70&fontColor=CC0000&fontAlignY=42&fontFamily=Georgia&desc=Electrical%20Engineer%20%7C%20Renewable%20Energy%20%7C%20Smart%20Grids%20%7C%20NSUT%20New%20Delhi&descAlignY=63&descSize=14&descColor=CCCCCC&animation=fadeIn&stroke=8B0000&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:05051A,65:0D0D3B,100:1A0030&height=260&section=header&text=PRATIK%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=42&fontFamily=Georgia&desc=Electrical%20Engineer%20%7C%20Renewable%20Energy%20%7C%20Smart%20Grids%20%7C%20NSUT%20New%20Delhi&descAlignY=63&descSize=14&descColor=&animation=fadeIn&stroke=8B0000&strokeWidth=2" />
 
 </div>
 <!-- SNAKE ANIMATION -->
