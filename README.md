@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/c8/e1/57/c8e15787a56cba7278146d79c93fd7bc.gif" width="280" alt="Spider-Man swinging" />
+<img src="https://64.media.tumblr.com/b89d9253d7a53bc0dbb08af6f316e2dd/b011337beef27f30-f4/s640x960/277a0199f597287448d32f858a3119af4f7f0f66.gifv" width="280" alt="Spider-Man swinging" />
 
 <br/>
 
@@ -159,7 +159,7 @@ class SpiderEngineer:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF5cnJkNWxzdmtlbnVtZ2NxbHF2OXd2aGN4N2VxYm1xNW95djJtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHLa/giphy.gif" width="80" alt="loading" />
+<img src="https://i.pinimg.com/originals/b3/1b/a8/b31ba891341087248da61f09e28f3918.gif" width="400" alt="loading" />
 
 <br/>
 
@@ -175,7 +175,7 @@ class SpiderEngineer:
 
 ---
 
-## 🏆 `HONOURS & COMMENDATIONS`
+## 🏆 `HONOURS & RECOMMENDATIONS`
 
 <div align="center">
 
@@ -197,7 +197,7 @@ class SpiderEngineer:
 
 ## 🎓 `CERTIFICATIONS`
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHptb3IxNDh4NnVkdTEzNHNtcXo4NjRvcGRlMGV6dGFsY3AzMzNxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHnwTttExPf4OjWWgL/giphy.gif" width="150" alt="spidey" />
+<img align="right" src="https://i.pinimg.com/736x/54/dc/51/54dc5157053bef6c49d072c0214eb055.jpg" width="150" alt="spidey" />
 
 | 🕷️ | Certification | Institution | Duration |
 |:---:|---|---|---|
@@ -233,7 +233,7 @@ class SpiderEngineer:
 
 ---
 
-<img src="https://i.pinimg.com/1200x/b9/a0/7b/b9a07bfdf82c6c42d7909e8e27ecaa2b.jpg" width="180" alt="spiderman upside down" />
+<img src="https://i.pinimg.com/originals/1b/05/a1/1b05a11f58698569d468288a96e398bf.gif" width="300" alt="spiderman upside down" />
 
 <br/>
 
