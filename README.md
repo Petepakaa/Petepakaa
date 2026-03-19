@@ -1,14 +1,10 @@
-<!-- SPIDER-MAN DARK THEME — INTO THE DARK VERSE 🕷️ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║       SPIDER-MAN DARK VERSE — PRATIK KUMAR             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0A0A2E,70:1A0A4E,100:12005E&height=220&section=header&text=PRATIK%20KUMAR&fontSize=62&fontColor=CC0000&fontAlignY=40&fontFamily=Georgia&desc=🕷️%20Electrical%20Engineer%20%7C%20Renewable%20Energy%20%7C%20Smart%20Grids&descAlignY=62&descSize=15&descColor=E8E8E8&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Palatino+Linotype&weight=700&size=20&duration=3200&pause=600&color=CC0000&center=true&vCenter=true&multiline=true&width=750&height=80&lines=🕸️+With+Great+Power+Comes+Great+Responsibility+🕸️;⚡+P2P+Energy+%7C+Smart+Grids+%7C+Renewable+Systems;🕷️+%22Ah%2C+wire..%22+—+Pratik+Kumar)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:05051A,65:0D0D3B,100:1A0030&height=260&section=header&text=PRATIK%20KUMAR&fontSize=70&fontColor=CC0000&fontAlignY=42&fontFamily=Georgia&desc=Electrical%20Engineer%20%7C%20Renewable%20Energy%20%7C%20Smart%20Grids%20%7C%20NSUT%20New%20Delhi&descAlignY=63&descSize=14&descColor=CCCCCC&animation=fadeIn&stroke=8B0000&strokeWidth=2" />
 
 </div>
 
@@ -16,21 +12,19 @@
 
 <div align="center">
 
-```
-        //     \\
-       ||  🕷️  ||
-        \\     //
-     ~~~~~ ~~~ ~~~~~
-    🕸️  PRATIK KUMAR  🕸️
-     ~~~~~ ~~~ ~~~~~
-   Electrical Engineer | NSUT
-```
+<img src="https://i.pinimg.com/originals/c8/e1/57/c8e15787a56cba7278146d79c93fd7bc.gif" width="280" alt="Spider-Man swinging" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=22&duration=3000&pause=700&color=CC0000&center=true&vCenter=true&multiline=true&width=780&height=90&lines=🕸️+With+Great+Power+Comes+Great+Responsibility+🕸️;⚡+P2P+Energy+%7C+Smart+Grids+%7C+Renewable+Energy+Systems;🕷️+%22Ah%2C+wire..%22+—+Pratik+Kumar%2C+always.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🕷️ `IDENTITY CARD`
+
+<img align="right" src="https://i.pinimg.com/originals/cd/31/99/cd319994490577507d7781d9d2dbe363.gif" width="200" alt="Spider-Man pointing meme" />
 
 ```python
 class SpiderEngineer:
@@ -45,7 +39,7 @@ class SpiderEngineer:
     current_missions = [
         "🕸️  Renewable Energy Solutions",
         "⚡  Peer-to-Peer Energy Sharing Systems",
-        "🔌  Smart Grid & Frequency Stability Research",
+        "🔌  Smart Grid & Frequency Stability",
         "☀️  MPPT Control for Solar PV Systems",
     ]
 
@@ -53,45 +47,51 @@ class SpiderEngineer:
     status       = "🕷️  SWINGING THROUGH THE POWER GRID"
 ```
 
+<br clear="right"/>
+
 ---
 
 ## 🌐 `COMMUNICATION WEB`
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-petepakaa-1a0a2e?style=for-the-badge&logo=Instagram&logoColor=CC0000&labelColor=0A0A1E)](https://instagram.com/petepakaa)
-[![X](https://img.shields.io/badge/X_(Twitter)-Petepakka-1a0a2e?style=for-the-badge&logo=X&logoColor=E8E8E8&labelColor=0A0A1E)](https://x.com/Petepakka)
-[![Email](https://img.shields.io/badge/Email-prateekk2004-1a0a2e?style=for-the-badge&logo=gmail&logoColor=CC0000&labelColor=0A0A1E)](mailto:prateekk2004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-petepakaa-000010?style=for-the-badge&logo=Instagram&logoColor=CC0000&labelColor=05051A)](https://instagram.com/petepakaa)
+[![X](https://img.shields.io/badge/X_(Twitter)-Petepakka-000010?style=for-the-badge&logo=X&logoColor=E8E8E8&labelColor=05051A)](https://x.com/Petepakka)
+[![Email](https://img.shields.io/badge/Email-prateekk2004-000010?style=for-the-badge&logo=gmail&logoColor=CC0000&labelColor=05051A)](mailto:prateekk2004@gmail.com)
 
 </div>
 
 ---
 
-## 🕸️ `FIELD OPERATIONS` — *Where the web was cast*
+## 🕸️ `FIELD OPERATIONS`
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/61/14/cd/6114cdbb6c15ee8777412c79c55b17a8.gif" width="300" alt="spider web" />
+</div>
 
 <details>
-<summary><b>☀️ Renewable Energy Field Engineer · SJVN Ltd (Navratna PSU) — May–Jul 2025</b></summary>
+<summary><b>☀️ &nbsp; Renewable Energy Field Engineer &nbsp;·&nbsp; SJVN Ltd (Navratna PSU) &nbsp;—&nbsp; May–Jul 2025</b></summary>
 
 <br>
 
 > *A Navratna PSU renowned for the Nathpa Jhakri Hydro Station and Omkareshwar Floating Solar Project*
 
-- 🔍 Audited PV module, inverter & cable specifications for **5 state-level installations** under the PM Surya Ghar scheme  
-- 📊 Conducted comparative technical & financial assessment of project proposals for **570+ government buildings** via Excel  
-- 🏭 Executed site inspection at the **50 MW Gujrai Solar Power Plant** (Uttar Pradesh) — fault analysis covering ground faults, inverter faults & module hotspots  
-- 📡 Monitored MPPT voltage tracking, Solar Irradiance, Temperature, Performance Ratio (PR), CUF, and Grid interface parameters
+- 🔍 Audited PV module, inverter & cable specs for **5 state-level installations** under the PM Surya Ghar scheme
+- 📊 Technical & financial assessment for **570+ government buildings** — annexure consolidation & annual billing verification
+- 🏭 Site inspection at the **50 MW Gujrai Solar Power Plant** (UP) — fault analysis: ground faults, inverter faults & module hotspots
+- 📡 Monitored MPPT voltage tracking, Solar Irradiance, Temperature, Performance Ratio (PR), CUF & Grid interface parameters
 
 </details>
 
 <details>
-<summary><b>🛫 IT Infrastructure & Operations · Airports Authority of India — May–Jun 2024</b></summary>
+<summary><b>🛫 &nbsp; IT Infrastructure & Operations &nbsp;·&nbsp; Airports Authority of India &nbsp;—&nbsp; May–Jun 2024</b></summary>
 
 <br>
 
-- 🖥️ Monitored CNS/ATM systems, Airport Operational Database & infrastructure using **AIMS Hazard Log + Nagios**  
-- ✈️ Handled air traffic & flight movement records within AIMS reporting modules  
-- 💳 Managed billing, invoice records & revenue transaction data in the AIMS billing system  
-- ⚙️ Configured **AIMS & Government E-Marketplace (GeM Portal)**, coordinated with IT for uninterrupted service
+- 🖥️ Monitored CNS/ATM systems, Airport Operational Database & infrastructure using **AIMS Hazard Log + Nagios**
+- ✈️ Handled air traffic & flight movement records within AIMS reporting modules
+- 💳 Managed billing, invoice records & revenue transaction data in the AIMS billing system
+- ⚙️ Configured **AIMS & Government E-Marketplace (GeM Portal)** — coordinated with IT for uninterrupted service
 
 </details>
 
@@ -99,14 +99,18 @@ class SpiderEngineer:
 
 ## 🔬 `RESEARCH DOSSIER` — *Active Case Files*
 
+<div align="center">
+<img src="https://i.pinimg.com/originals/dd/16/fc/dd16fcb13a206a7dcf5b3f83b0f41588.gif" width="400" alt="spider sense" />
+</div>
+
 | 🕷️ | Project | Technology | Status |
-|---|---|---|---|
-| 🌊 | **Grid Frequency Stability under Reduced Inertia** | MATLAB / Simulink — RoCoF & frequency deviation analysis | `🕸️ ACTIVE` |
-| ☀️ | **MPPT Control for Solar PV (Gujrai Plant Parameters)** | MATLAB Simulink — irradiance & temperature variation | `🕸️ ACTIVE` |
-| 📈 | **Indian Electricity Market Price & Demand–Supply Analysis** | Statistical analysis — IEX Day-Ahead Market data | `🕸️ ACTIVE` |
-| 🔋 | **Li-ion vs Lead-Acid vs NiCd Battery Performance** | MATLAB — charge/discharge simulation & cycle analysis | `✅ COMPLETE` |
-| 🤖 | **Decentralised Multi-Robot Path Planning & Collision Avoidance** *(Under Review)* | Python + MATLAB — APF, narrow-corridor navigation | `📝 UNDER REVIEW` |
-| ⚡ | **Peer-to-Peer Energy Sharing Framework** | MATLAB — SDR, MMR, Bill Sharing, auction-based pricing | `✅ COMPLETE` |
+|:---:|---|---|:---:|
+| 🌊 | **Grid Frequency Stability under Reduced Inertia** | MATLAB / Simulink — RoCoF & frequency deviation | `🕸️ ACTIVE` |
+| ☀️ | **MPPT Control for Solar PV (Gujrai Plant Model)** | MATLAB Simulink — irradiance & temperature variation | `🕸️ ACTIVE` |
+| 📈 | **Indian Electricity Market Price & Demand–Supply Analysis** | Statistical analysis — IEX Day-Ahead Market | `🕸️ ACTIVE` |
+| 🔋 | **Li-ion vs Lead-Acid vs NiCd Battery Performance** | MATLAB — charge/discharge simulation | `✅ COMPLETE` |
+| 🤖 | **Multi-Robot Path Planning & Collision Avoidance** *(Under Review)* | Python + MATLAB — APF, corridor nav | `📝 IN REVIEW` |
+| ⚡ | **Peer-to-Peer Energy Sharing Framework** | MATLAB — SDR, MMR, Bill Sharing, auction pricing | `✅ COMPLETE` |
 
 ---
 
@@ -129,7 +133,7 @@ class SpiderEngineer:
 ### 🕸️ Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A1E?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-05051A?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -155,11 +159,17 @@ class SpiderEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petepakaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=CC0000&text_color=E8E8E8&icon_color=8B0000&bg_color=0A0A1E" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF5cnJkNWxzdmtlbnVtZ2NxbHF2OXd2aGN4N2VxYm1xNW95djJtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHLa/giphy.gif" width="80" alt="loading" />
 
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Petepakaa&theme=midnight-purple&hide_border=true&ring=CC0000&fire=8B0000&currStreakLabel=E8E8E8&background=0A0A1E&sideLabels=E8E8E8&sideNums=CC0000&dates=888888" />
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petepakaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=CC0000&text_color=E8E8E8&bg_color=0A0A1E" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Petepakaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=CC0000&text_color=E8E8E8&icon_color=8B0000&bg_color=05051A" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petepakaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=CC0000&text_color=E8E8E8&bg_color=05051A" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Petepakaa&theme=midnight-purple&hide_border=true&ring=CC0000&fire=8B0000&currStreakLabel=E8E8E8&background=05051A&sideLabels=E8E8E8&sideNums=CC0000&dates=777777" />
 
 </div>
 
@@ -179,7 +189,7 @@ class SpiderEngineer:
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Petepakaa&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0A0A1E&title_color=CC0000&text_color=E8E8E8)
+![](https://github-contributor-stats.vercel.app/api?username=Petepakaa&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=05051A&title_color=CC0000&text_color=E8E8E8)
 
 </div>
 
@@ -187,11 +197,15 @@ class SpiderEngineer:
 
 ## 🎓 `CERTIFICATIONS`
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHptb3IxNDh4NnVkdTEzNHNtcXo4NjRvcGRlMGV6dGFsY3AzMzNxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHnwTttExPf4OjWWgL/giphy.gif" width="150" alt="spidey" />
+
 | 🕷️ | Certification | Institution | Duration |
-|---|---|---|---|
+|:---:|---|---|---|
 | 📊 | Foundations of R Software *(12-week)* | NPTEL · IIT Kanpur | Jul – Oct 2024 |
 | 🧠 | Introduction to Cognitive Psychology *(12-week)* | NPTEL · IIT Guwahati | Jan – Apr 2025 |
 | 🌿 | Conservation Geography *(12-week)* | NPTEL · IIT Kanpur | Jul – Oct 2025 |
+
+<br clear="right"/>
 
 ---
 
@@ -207,23 +221,28 @@ class SpiderEngineer:
 ## 🎵 `BEYOND THE CIRCUIT` — Crescendo
 
 > 🎸 **Instrumental Head · Crescendo — Music Society of NSUT** · *January 2023 – November 2025*  
-> Led external communications, partnerships & promotional content creation. Oversaw social media strategy, design and execution to drive event awareness and participation across the club.
+> Led external communications, partnerships & promotional content. Oversaw social media strategy, design and execution to drive event awareness and participation across the club.
 
 ---
 
 <div align="center">
 
-### ✍️ `THOUGHT OF THE DAY`
+### 🕷️ `THOUGHT OF THE DAY`
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12005E,40:1A0A4E,70:0A0A2E,100:000000&height=140&section=footer&text=🕷️%20Whatever%20a%20Spider%20Can%20🕸️&fontSize=22&fontColor=CC0000&fontAlignY=62&fontFamily=Georgia" />
+<img src="https://i.pinimg.com/1200x/b9/a0/7b/b9a07bfdf82c6c42d7909e8e27ecaa2b.jpg" width="180" alt="spiderman upside down" />
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0030,35:0D0D3B,65:05051A,100:000000&height=150&section=footer&text=🕷️%20Whatever%20a%20Spider%20Can%20🕸️&fontSize=24&fontColor=CC0000&fontAlignY=65&fontFamily=Georgia" />
 
 *"With great power comes great responsibility."*  
 **— Uncle Ben · and every Electrical Engineer who ever touched a live wire**
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Petepakaa&label=Visitors&icon=9&color=6&labelColor=0&pretty=true)](https://visitcount.itsvg.in)
 
