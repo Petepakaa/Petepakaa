@@ -4,15 +4,48 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:05051A,65:0D0D3B,100:1A0030&height=260&section=header&text=PRATIK%20KUMAR&fontSize=70&fontColor=CC0000&fontAlignY=42&fontFamily=Georgia&desc=Electrical%20Engineer%20%7C%20Renewable%20Energy%20%7C%20Smart%20Grids%20%7C%20NSUT%20New%20Delhi&descAlignY=63&descSize=14&descColor=CCCCCC&animation=fadeIn&stroke=8B0000&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:05051A,65:0D0D3B,100:1A0030&height=280&section=header&text=PRATIK%20KUMAR&fontSize=75&fontColor=CC0000&fontAlignY=42&fontFamily=Georgia&desc=Electrical%20Engineer%20%7C%20Renewable%20Energy%20%7C%20Smart%20Grids%20%7C%20NSUT%20New%20Delhi&descAlignY=63&descSize=15&descColor=CCCCCC&animation=fadeIn&stroke=FF0000&strokeWidth=3" />
 
 </div>
 
----
+<div align="center">
+
+<!-- GLOWING NAME SVG -->
+<svg width="700" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="redglow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="700" height="80" fill="#000000" rx="8"/>
+  <text x="350" y="38" font-family="Georgia, serif" font-size="16" font-weight="bold"
+        fill="#CC0000" text-anchor="middle" filter="url(#redglow)">
+    ⚡ ELECTRICAL ENGINEER · RENEWABLE ENERGY · SMART GRIDS ⚡
+  </text>
+  <text x="350" y="65" font-family="Georgia, serif" font-size="15"
+        fill="#8888CC" text-anchor="middle" filter="url(#glow)">
+    🕷️  Dwarka, New Delhi  ·  NSUT Class of 2026  ·  "Ah, wire.."  🕸️
+  </text>
+</svg>
+
+</div>
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/b89d9253d7a53bc0dbb08af6f316e2dd/b011337beef27f30-f4/s640x960/277a0199f597287448d32f858a3119af4f7f0f66.gif" width="280" alt="Spider-Man swinging" />
+<img src="https://64.media.tumblr.com/b89d9253d7a53bc0dbb08af6f316e2dd/b011337beef27f30-f4/s640x960/277a0199f597287448d32f858a3119af4f7f0f66.gif" width="300" alt="Spider-Man swinging" />
 
 <br/>
 
@@ -20,11 +53,41 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" />
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+
 ---
 
-## 🕷️ `IDENTITY CARD`
+## 🕷️ IDENTITY CARD
 
-<img align="right" src="https://i.pinimg.com/originals/cd/31/99/cd319994490577507d7781d9d2dbe363.gif" width="200" alt="Spider-Man pointing meme" />
+<div align="center">
+
+<!-- GLOWING IDENTITY HEADER -->
+<svg width="680" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="680" height="50" fill="#05051A" rx="6"/>
+  <text x="340" y="33" font-family="Georgia, serif" font-size="20" font-weight="bold"
+        fill="#CC0000" text-anchor="middle" filter="url(#glow2)">
+    🕷️  ALIAS: PETEPAKAA  ·  THE WIRE GUY  ·  SPIDER-ENGINEER  🕷️
+  </text>
+</svg>
+
+</div>
+
+<img align="right" src="https://i.pinimg.com/originals/cd/31/99/cd319994490577507d7781d9d2dbe363.gif" width="210" alt="Spider-Man pointing meme" />
 
 ```python
 class SpiderEngineer:
@@ -51,9 +114,26 @@ class SpiderEngineer:
 
 ---
 
-## 🌐 `COMMUNICATION WEB`
+## 🌐 COMMUNICATION WEB
 
 <div align="center">
+
+<!-- GLOWING SOCIALS LABEL -->
+<svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow3">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="500" height="40" fill="#000000" rx="6"/>
+  <text x="250" y="26" font-family="Georgia, serif" font-size="16"
+        fill="#9999FF" text-anchor="middle" filter="url(#glow3)">
+    🕸️  FIND ME ACROSS THE WEB  🕸️
+  </text>
+</svg>
+
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-petepakaa-000010?style=for-the-badge&logo=Instagram&logoColor=CC0000&labelColor=05051A)](https://instagram.com/petepakaa)
 [![X](https://img.shields.io/badge/X_(Twitter)-Petepakka-000010?style=for-the-badge&logo=X&logoColor=E8E8E8&labelColor=05051A)](https://x.com/Petepakka)
@@ -63,10 +143,27 @@ class SpiderEngineer:
 
 ---
 
-## 🕸️ `FIELD OPERATIONS`
+## 🕸️ FIELD OPERATIONS
 
 <div align="center">
+
+<!-- GLOWING SECTION LABEL -->
+<svg width="600" height="44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow4">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="44" fill="#05051A" rx="6"/>
+  <text x="300" y="28" font-family="Georgia, serif" font-size="25" font-weight="bold"
+        fill="#CC0000" text-anchor="middle" filter="url(#glow4)">
+    ⚡   INTERNSHIPS  ⚡
+  </text>
+</svg>
+
 <img src="https://i.pinimg.com/originals/61/14/cd/6114cdbb6c15ee8777412c79c55b17a8.gif" width="300" alt="spider web" />
+
 </div>
 
 <details>
@@ -79,7 +176,7 @@ class SpiderEngineer:
 - 🔍 Audited PV module, inverter & cable specs for **5 state-level installations** under the PM Surya Ghar scheme
 - 📊 Technical & financial assessment for **570+ government buildings** — annexure consolidation & annual billing verification
 - 🏭 Site inspection at the **50 MW Gujrai Solar Power Plant** (UP) — fault analysis: ground faults, inverter faults & module hotspots
-- 📡 Monitored MPPT voltage tracking, Solar Irradiance, Temperature, Performance Ratio (PR), CUF & Grid interface parameters
+- 📡 Monitored MPPT voltage tracking, Solar Irradiance, Temperature, PR, CUF & Grid interface parameters
 
 </details>
 
@@ -88,7 +185,7 @@ class SpiderEngineer:
 
 <br>
 
-- 🖥️ Monitored CNS/ATM systems, Airport Operational Database & infrastructure using **AIMS Hazard Log + Nagios**
+- 🖥️ Monitored CNS/ATM systems, AODB & infrastructure using **AIMS Hazard Log + Nagios**
 - ✈️ Handled air traffic & flight movement records within AIMS reporting modules
 - 💳 Managed billing, invoice records & revenue transaction data in the AIMS billing system
 - ⚙️ Configured **AIMS & Government E-Marketplace (GeM Portal)** — coordinated with IT for uninterrupted service
@@ -97,10 +194,26 @@ class SpiderEngineer:
 
 ---
 
-## 🔬 `RESEARCH DOSSIER` — *Active Case Files*
+## 🔬 RESEARCH DOSSIER
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/dd/16/fc/dd16fcb13a206a7dcf5b3f83b0f41588.gif" width="400" alt="spider sense" />
+
+<svg width="580" height="44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow5">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="580" height="44" fill="#05051A" rx="6"/>
+  <text x="290" y="28" font-family="Georgia, serif" font-size="25" font-weight="bold"
+        fill="#CC0000" text-anchor="middle" filter="url(#glow5)">
+    🔬  ACTIVE CASE FILES   🔬
+  </text>
+</svg>
+
+<img src="https://i.pinimg.com/originals/dd/16/fc/dd16fcb13a206a7dcf5b3f83b0f41588.gif" width="380" alt="spider sense" />
+
 </div>
 
 | 🕷️ | Project | Technology | Status |
@@ -114,23 +227,39 @@ class SpiderEngineer:
 
 ---
 
-## 💻 `ARSENAL` — *Tools of the Trade*
+## 💻 ARSENAL — *Tools of the Trade*
 
 <div align="center">
 
-### 🕸️ Simulation & Modelling
+<svg width="560" height="44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow6">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="560" height="44" fill="#000000" rx="6"/>
+  <text x="280" y="28" font-family="Georgia, serif" font-size="17" font-weight="bold"
+        fill="#7777FF" text-anchor="middle" filter="url(#glow6)">
+    🕸️  WEAPONS OF CHOICE  🕸️
+  </text>
+</svg>
+
+<br/>
+
+### Simulation & Modelling
 ![MATLAB](https://img.shields.io/badge/MATLAB_R2025b-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LTSpice](https://img.shields.io/badge/LTSpice-CC0000?style=for-the-badge&logoColor=white)
 
-### 🕸️ Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🕸️ Data Science & Analytics
+### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05051A?style=for-the-badge&logo=Matplotlib&logoColor=white)
@@ -138,7 +267,7 @@ class SpiderEngineer:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### 🕸️ Design & Creative Suite
+### Design & Creative Suite
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Lightroom Classic](https://img.shields.io/badge/Lightroom_Classic-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
@@ -146,7 +275,7 @@ class SpiderEngineer:
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-### 🕸️ Platforms & Productivity
+### Platforms & Productivity
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
@@ -155,11 +284,25 @@ class SpiderEngineer:
 
 ---
 
-## 📊 `PERFORMANCE METRICS`
+## 📊 PERFORMANCE METRICS
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b3/1b/a8/b31ba891341087248da61f09e28f3918.gif" width="400" alt="loading" />
+<svg width="600" height="44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow7">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="44" fill="#05051A" rx="6"/>
+  <text x="300" y="28" font-family="Georgia, serif" font-size="17" font-weight="bold"
+        fill="#CC0000" text-anchor="middle" filter="url(#glow7)">
+    📊  POWER GRID STATS — LIVE FEED  📊
+  </text>
+</svg>
+
+<img src="https://i.pinimg.com/originals/b3/1b/a8/b31ba891341087248da61f09e28f3918.gif" width="360" alt="spiderman web stats" />
 
 <br/>
 
@@ -175,9 +318,25 @@ class SpiderEngineer:
 
 ---
 
-## 🏆 `HONOURS & RECOMMENDATIONS`
+## 🏆 HONOURS & COMMENDATIONS
 
 <div align="center">
+
+<svg width="560" height="44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow8">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="560" height="44" fill="#000000" rx="6"/>
+  <text x="280" y="28" font-family="Georgia, serif" font-size="17" font-weight="bold"
+        fill="#FFD700" text-anchor="middle" filter="url(#glow8)">
+    🏆  TROPHIES COLLECTED FROM THE MULTIVERSE  🏆
+  </text>
+</svg>
+
+<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=Petepakaa&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7)
 
@@ -185,7 +344,7 @@ class SpiderEngineer:
 
 ---
 
-## 📡 `TOP CONTRIBUTIONS`
+## 📡 TOP CONTRIBUTIONS
 
 <div align="center">
 
@@ -195,9 +354,27 @@ class SpiderEngineer:
 
 ---
 
-## 🎓 `CERTIFICATIONS`
+## 🎓 CERTIFICATIONS
 
-<img align="right" src="https://i.pinimg.com/736x/54/dc/51/54dc5157053bef6c49d072c0214eb055.jpg" width="150" alt="spidey" />
+<div align="center">
+
+<svg width="520" height="44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow9">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="520" height="44" fill="#05051A" rx="6"/>
+  <text x="260" y="28" font-family="Georgia, serif" font-size="17" font-weight="bold"
+        fill="#9999FF" text-anchor="middle" filter="url(#glow9)">
+    🎓  POWER-UPS UNLOCKED — CERTIFICATIONS  🎓
+  </text>
+</svg>
+
+</div>
+
+<img align="right" src="https://i.pinimg.com/736x/54/dc/51/54dc5157053bef6c49d072c0214eb055.jpg" width="160" alt="spidey" />
 
 | 🕷️ | Certification | Institution | Duration |
 |:---:|---|---|---|
@@ -209,7 +386,7 @@ class SpiderEngineer:
 
 ---
 
-## ⚡ `WORKSHOPS & SEMINARS`
+## ⚡ WORKSHOPS & SEMINARS
 
 - 🔌 **National Power Grid Operator Workshop** — NLDC, Grid India, Katwaria Sarai, New Delhi *(19 Oct 2024)*
 - 🔧 **Transformer Workshop** — BSES-Rajdhani Power Ltd, Dwarka Sector-11, New Delhi *(17 Feb 2025)*
@@ -218,7 +395,7 @@ class SpiderEngineer:
 
 ---
 
-## 🎵 `BEYOND THE CIRCUIT` — Crescendo
+## 🎵 BEYOND THE CIRCUIT — Crescendo
 
 > 🎸 **Instrumental Head · Crescendo — Music Society of NSUT** · *January 2023 – November 2025*  
 > Led external communications, partnerships & promotional content. Oversaw social media strategy, design and execution to drive event awareness and participation across the club.
@@ -227,20 +404,52 @@ class SpiderEngineer:
 
 <div align="center">
 
-### 🕷️ `THOUGHT OF THE DAY`
+<svg width="640" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow10">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="640" height="50" fill="#000000" rx="8"/>
+  <text x="320" y="32" font-family="Georgia, serif" font-size="19" font-weight="bold"
+        fill="#CC0000" text-anchor="middle" filter="url(#glow10)">
+    ✍️  THOUGHT OF THE DAY  ✍️
+  </text>
+</svg>
+
+<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+<br/>
 
 <img src="https://i.pinimg.com/originals/1b/05/a1/1b05a11f58698569d468288a96e398bf.gif" width="300" alt="spiderman upside down" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0030,35:0D0D3B,65:05051A,100:000000&height=150&section=footer&text=🕷️%20Whatever%20a%20Spider%20Can%20🕸️&fontSize=24&fontColor=CC0000&fontAlignY=65&fontFamily=Georgia" />
+<!-- GLOWING FOOTER QUOTE -->
+<svg width="700" height="70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow11">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="700" height="70" fill="#000000" rx="8"/>
+  <text x="350" y="28" font-family="Georgia, serif" font-size="16" font-style="italic"
+        fill="#CC0000" text-anchor="middle" filter="url(#glow11)">
+    "With great power comes great responsibility."
+  </text>
+  <text x="350" y="52" font-family="Georgia, serif" font-size="13"
+        fill="#8888BB" text-anchor="middle" filter="url(#glow11)">
+    — Uncle Ben · and every Electrical Engineer who ever touched a live wire
+  </text>
+</svg>
 
-*"With great power comes great responsibility."*  
-**— Uncle Ben · and every Electrical Engineer who ever touched a live wire**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0030,35:0D0D3B,65:05051A,100:000000&height=150&section=footer&text=🕷️%20Whatever%20a%20Spider%20Can%20🕸️&fontSize=24&fontColor=CC0000&fontAlignY=65&fontFamily=Georgia" />
 
 <br/>
 
@@ -248,4 +457,4 @@ class SpiderEngineer:
 
 </div>
 
-<!-- 🕷️ Woven with care — Into the Dark Verse -->
+<!-- 🕷️ Woven with SVG glow — Into the Dark Verse -->
